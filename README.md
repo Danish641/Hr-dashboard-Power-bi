@@ -68,8 +68,6 @@ A direct action tab for HR intervention, listing:
 
 |  Home Page  |  Details Page  |  Action Page  |
 
-| ![Home](./Screenshots/HomePage.png) | ![Details](./Screenshots/DetailsPage.png) | ![Action](./Screenshots/ActionPage.png) |
-
 ##  How to Use
 
 1. Open the `.pbix` file using **Power BI Desktop**.

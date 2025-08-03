@@ -66,8 +66,8 @@ A direct action tab for HR intervention, listing:
 - UI visuals of the dashboard
 - `DAX-Measures.txt` – List of calculated columns and DAX formulas
 
-| Home Page | Details Page | Action Page |
-|-----------|--------------|-------------|
+|  Home Page  |  Details Page  |  Action Page  |
+
 | ![Home](./Screenshots/HomePage.png) | ![Details](./Screenshots/DetailsPage.png) | ![Action](./Screenshots/ActionPage.png) |
 
 ##  How to Use
